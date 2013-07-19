@@ -1,0 +1,13 @@
+{
+  "name": "museo-slab-500",
+  "repo": "esundahl/museo-slab-500",
+  "description": "Museo Slab 500 Font Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo-slab-500.css"
+  ]
+}
