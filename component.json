@@ -9,5 +9,11 @@
   "license": "MIT",
   "styles": [
     "museo-slab-500.css"
+  ],
+  "fonts": [
+    "fonts/museo_slab_500-webfont.eot",
+    "fonts/museo_slab_500-webfont.svg",
+    "fonts/museo_slab_500-webfont.ttf",
+    "fonts/museo_slab_500-webfont.woff"
   ]
 }
